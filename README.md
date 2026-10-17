@@ -84,4 +84,4 @@ Only run the link-scraping or wordlist brute-force modes against targets you own
 
 ## Author
 
-`<your name here>`
+`@SwiftGlitxh`
